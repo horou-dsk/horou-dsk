@@ -1,3 +1,5 @@
+![Metrics](https://github.com/horou-dsk/horou-dsk/blob/main/github-metrics.svg)
+
 
 ![](https://github-readme-stats.vercel.app/api?username=horou-dsk&count_private=true&show_icons=true)
 
