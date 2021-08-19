@@ -14,8 +14,6 @@ jobs:
         with:
           # Your GitHub token
           token: ${{ secrets.METRICS_TOKEN }}
-      - uses: lowlighter/metrics@latest
-        with:
           # ... other options
           plugin_languages: yes
           plugin_languages_ignored: html, css                           # List of languages to ignore
@@ -32,3 +30,4 @@ jobs:
           plugin_languages_recent_load: 500                             # Load up to 500 events to compute recently used stats
           plugin_languages_recent_days: 7                               # Limit recently used stats to last week
           commits_authoring: xly_tk@foxmail.com        # Surnames or email addresses used to identify your commits
+          
