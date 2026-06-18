@@ -1,10 +1,12 @@
 ![Metrics](https://github.com/horou-dsk/horou-dsk/blob/main/github-metrics.svg)
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-![](https://github-readme-stats.vercel.app/api?username=horou-dsk&count_private=true&show_icons=true)
+
+<!-- ![](https://github-readme-stats.vercel.app/api?username=horou-dsk&count_private=true&show_icons=true)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horou-dsk&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=horou-dsk&hide=javascript,html,css)](https://github.com/anuraghazra/github-readme-stats) -->
 
 <!-- ### Hi there 👋 -->
 
